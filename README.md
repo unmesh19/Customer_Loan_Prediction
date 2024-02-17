@@ -1,8 +1,8 @@
-#Customer Loon Prediction Project Readme
+## Customer Loon Prediction Project Readme
 
 In the regim of financial services, the ability to accurately predict toon defouits is of paramount importance. This project addresses this challenge by leveraging machine learning techniques to Forecast whether a customer will default on a loan, based on various factors including credit history and demographic information
 
-## Dobosat
+## Dataset
 
 The project utilizes two key datasets
 
